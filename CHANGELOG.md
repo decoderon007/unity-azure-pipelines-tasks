@@ -5,17 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.7.x Unreleased]
+## [2.7.3]
 
-### Fixed
+### Changed
 
-- Fixed invalid path mode issue [#135](https://github.com/Dinomite-Studios/unity-azure-pipelines-tasks/issues/135) for UnityBuildV1/V2, UnityCMDV1, UnityTestV1
+- Unity Test Task updated to v1.3.0. Check task changelog for changes
 
 ## [2.7.2]
 
 ### Changed
 
-- Updated Unity Test Task to v1.2.0. Please check task changelog for changes.
+- Updated Unity Test Task to v1.2.0. Please check task changelog for changes
 
 ## [2.7.1]
 

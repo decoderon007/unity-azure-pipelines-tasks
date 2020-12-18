@@ -7,9 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.27]
 
-### Fixed
+### Changed
 
-- Fixed invalid path mode issue [#135](https://github.com/Dinomite-Studios/unity-azure-pipelines-tasks/issues/135)
+- Updated dependencies
 
 ## [1.0.26]
 
